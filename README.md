@@ -16,7 +16,7 @@ Dashboard interativo desenvolvido com Streamlit para análise de desempenho de v
 https://jessyenes-analise-vendas-dashboard-dashboardapp-6sxkq0.streamlit.app/
 
 🔗 Código no GitHub:
-[LINK DO SEU REPOSITÓRIO]
+(https://github.com/jessyenes/analise-vendas-dashboard)
 
 ---
 
@@ -28,7 +28,7 @@ Pipeline de dados para extração, transformação e geração de métricas.
 ✔ Dados prontos para análise
 
 🔗 GitHub:
-[LINK ETL]
+https://github.com/jessyenes/etl-vendas-python
 
 ---
 
@@ -40,7 +40,7 @@ Modelo de regressão para previsão de vendas com avaliação de desempenho.
 ✔ Visualização de previsões
 
 🔗 GitHub:
-[LINK ML]
+https://github.com/jessyenes/ml-previsao-vendas
 
 ---
 
