@@ -2,7 +2,10 @@
 
 Olá! Sou profissional iniciando na área de dados, com formação em Análise e Desenvolvimento de Sistemas e experiência prática em projetos voltados para análise, modelagem e geração de insights.
 
-Atuo no desenvolvimento de soluções com foco em transformar dados em informações estratégicas para tomada de decisão.
+Tenho me dedicado ao desenvolvimento de projetos práticos que simulam cenários reais de negócio, envolvendo análise exploratória, modelagem de dados e construção de dashboards.
+
+Busco oportunidades na área de dados onde eu possa aplicar minhas habilidades, evoluir tecnicamente e gerar impacto através de insights.
+
 ---
 
 ## 🎯 Objetivo
@@ -85,12 +88,5 @@ https://github.com/jessyenes/ml-previsao-vendas
 * Streamlit
 * Scikit-learn
 * Matplotlib / Seaborn
-
----
-
-
-Tenho me dedicado ao desenvolvimento de projetos práticos que simulam cenários reais de negócio, envolvendo análise exploratória, modelagem de dados e construção de dashboards.
-
-Busco oportunidades na área de dados onde eu possa aplicar minhas habilidades, evoluir tecnicamente e gerar impacto através de insights.
 
 ---
