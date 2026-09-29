@@ -3,6 +3,11 @@
 Olá! Sou profissional iniciando na área de dados, com formação em Análise e Desenvolvimento de Sistemas e experiência prática em projetos voltados para análise, modelagem e geração de insights.
 
 Atuo no desenvolvimento de soluções com foco em transformar dados em informações estratégicas para tomada de decisão.
+---
+
+## 🎯 Objetivo
+
+Atuar como Analista de Dados, contribuindo com análises orientadas a dados para apoiar decisões estratégicas e gerar valor para o negócio.
 
 ---
 
@@ -83,15 +88,6 @@ https://github.com/jessyenes/ml-previsao-vendas
 
 ---
 
-## 🎯 Objetivo
-
-Atuar como Analista de Dados, contribuindo com análises orientadas a dados para apoiar decisões estratégicas e gerar valor para o negócio.
-
----
-
-## 👩‍💻 Sobre mim
-
-Sou formada em Análise e Desenvolvimento de Sistemas e atualmente atuo na área de tecnologia, com foco crescente em dados.
 
 Tenho me dedicado ao desenvolvimento de projetos práticos que simulam cenários reais de negócio, envolvendo análise exploratória, modelagem de dados e construção de dashboards.
 
